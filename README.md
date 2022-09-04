@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=opickbintang19&show_icons=true&locale=en&layout=compact" alt="opickbintang19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=opickbintang19&show_icons=true&theme=dark&locale=en" alt="opickbintang19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opickbintang19&" alt="opickbintang19" /></p>
