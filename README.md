@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/doyan_alpucok" target="blank"><img src="https://img.shields.io/twitter/follow/doyan_alpucok?logo=twitter&style=for-the-badge" alt="doyan_alpucok" /></a> </p>
 
-- 🌱 I’m currently learning *ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/opickbintang19?tab=repositories](https://github.com/opickbintang19?tab=repositories)
 
